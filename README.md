@@ -1,2 +1,2 @@
-# Proyecto-Sistema-Gest-n-de-Software-FJ
+# ProyectoSistemaGestiondeSoftwareFJ
 Sistema para gestionar, clientes, servicios y reservas de Software FJ
